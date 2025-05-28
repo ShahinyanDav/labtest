@@ -1,0 +1,1 @@
+export { MediaIconsGeneralPlusBig } from "./MediaIconsGeneralPlusBig";

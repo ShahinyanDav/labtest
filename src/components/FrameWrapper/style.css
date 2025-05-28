@@ -1,0 +1,100 @@
+.frame-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #d0d2d5;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 0px 32px;
+  position: relative;
+  width: 1441px;
+}
+
+.frame-wrapper .button-blue-small {
+  align-items: center;
+  border-radius: 2px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  height: 32px;
+  justify-content: center;
+  padding: 6px 0px;
+  position: relative;
+}
+
+.frame-wrapper .media-icons-arrows {
+  height: 16px !important;
+  position: relative !important;
+  width: 16px !important;
+}
+
+.frame-wrapper .label-5 {
+  color: var(--foundation-neutralneutral-500);
+  font-family: var(--paragraph-xsmall-regular-font-family);
+  font-size: var(--paragraph-xsmall-regular-font-size);
+  font-style: var(--paragraph-xsmall-regular-font-style);
+  font-weight: var(--paragraph-xsmall-regular-font-weight);
+  letter-spacing: var(--paragraph-xsmall-regular-letter-spacing);
+  line-height: var(--paragraph-xsmall-regular-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-wrapper .frame-16 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.frame-wrapper .lab-instance {
+  height: 28px !important;
+  position: relative !important;
+  width: 28px !important;
+}
+
+.frame-wrapper .text-wrapper-6 {
+  color: var(--foundation-neutralneutral-900);
+  font-family: "Roboto", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 15.3px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-wrapper .media-icons-arrows-2 {
+  height: 16px;
+  margin-bottom: -4688.00px;
+  margin-left: -2572.00px;
+  position: relative;
+  width: 16px;
+}
+
+.frame-wrapper .button-blue-small-2 {
+  align-items: center;
+  border-radius: 2px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  height: 32px;
+  justify-content: center;
+  opacity: 0;
+  padding: 6px 0px;
+  position: relative;
+}
+
+.frame-wrapper .media-icons-arrows-3 {
+  height: 16px;
+  margin-bottom: -4692.00px;
+  margin-left: -3196.00px;
+  position: relative;
+  width: 16px;
+}
